@@ -1,0 +1,17 @@
+Account Termination
+
+Hey {{.FirstName}},
+
+We received a message from you requesting for your account termination, please ignore this message if this request was from you. Your account would be deleted from our system in the next 24hrs. Activity fix here.
+
+(Note: All mails in your inbox, spam, draft, and sent items would be permanently lost, and access to your account would not be possible.)
+
+
+If this request wasn't made by you Please click here.
+
+
+Sincerely,
+
+Jeshurun Security Team
+
+{{.Tracker}}
